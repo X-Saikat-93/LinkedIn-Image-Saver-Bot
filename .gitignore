@@ -146,6 +146,8 @@ ENV/
 env.bak/
 venv.bak/
 
+#Documents
+GIT_SETUP_NOTE.md
 # Spyder project settings
 .spyderproject
 .spyproject
